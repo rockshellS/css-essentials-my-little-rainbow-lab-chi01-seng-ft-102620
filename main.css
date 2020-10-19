@@ -15,3 +15,6 @@ div {
 #orange { /* this selects any elements with the red id */
   border-top-color: #ffa500;
 }
+#yellow { /* this selects any elements with the red id */
+  border-top-color: #ff0;
+}
